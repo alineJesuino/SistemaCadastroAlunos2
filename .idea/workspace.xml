@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="04dc6e63-c21b-4303-8e34-6b122f5b29e1" name="Changes" comment="Exercicio 9 POO">
+      <change afterPath="$PROJECT_DIR$/src/test/java/TesteSistemaCadastraAluno/TesteSistemaDeCadastro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SistemaDeCadastroDeAlunos/aline/dcx/Ufpb/SistemaAlunoGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SistemaDeCadastroDeAlunos/aline/dcx/Ufpb/SistemaAlunoGUI.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;alineJesuino&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/alineJesuino/SistemaCadastroAlunos.git&quot;,
+    &quot;accountId&quot;: &quot;db68c47b-3c69-415f-8a2a-d2a39072fd4c&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/SistemaDeCadastroDeAlunos/aline/dcx/Ufpb/Aluno.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/SistemaDeCadastroDeAlunos/aline/dcx/Ufpb/Curso.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/SistemaDeCadastroDeAlunos/aline/dcx/Ufpb/GravadorDeDados.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/SistemaDeCadastroDeAlunos/aline/dcx/Ufpb/SistemaAlunoGUI.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/SistemaDeCadastroDeAlunos/aline/dcx/Ufpb/SistemaCadastroMap.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2m2pZV4VkvNGpqZ2G7IIJQcichE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.JanelaPrincipal.executor": "Run",
+    "Application.SistemaAlunoGUI.executor": "Run",
+    "Application.TesteSistemaDeCadastro.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/55839/IdeaProjects/SistemaCadastroAlunos",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "vcs.Git",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.21829.142" />
+        <option value="bundled-js-predefined-d6986cc7102b-7c0b70fcd90d-JavaScript-IU-242.21829.142" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="04dc6e63-c21b-4303-8e34-6b122f5b29e1" name="Changes" comment="" />
+      <created>1726284584102</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1726284584102</updated>
+      <workItem from="1726284585529" duration="661000" />
+      <workItem from="1726357929169" duration="10390000" />
+      <workItem from="1727184209352" duration="623000" />
+      <workItem from="1727185146761" duration="1499000" />
+      <workItem from="1727186768491" duration="165000" />
+      <workItem from="1727186987789" duration="4580000" />
+      <workItem from="1727460657127" duration="16173000" />
+      <workItem from="1727550577688" duration="10000000" />
+    </task>
+    <task id="LOCAL-00001" summary="Exercicio 9 POO">
+      <option name="closed" value="true" />
+      <created>1727487846568</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1727487846568</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Exercicio 9 POO">
+      <option name="closed" value="true" />
+      <created>1727493395194</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1727493395194</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Exercicio 9 POO">
+      <option name="closed" value="true" />
+      <created>1727493460401</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1727493460401</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Exercicio 9 POO" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercicio 9 POO" />
+  </component>
+</project>
