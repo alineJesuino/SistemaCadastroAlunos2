@@ -10,12 +10,14 @@ public class SistemaAlunoGUI extends JFrame {
 
     CadastroAluno cadastroAlunos = new CadastroAluno();// Classe que gerencia os alunos
     // Carrega as imagens
-
+/*
     ImageIcon addImg = new ImageIcon(getClass().getResource("c:/Users/55839/IdeaProjects/SistemaCadastroAlunos/imgs/icons/add.png"));
     ImageIcon pesqImg = new ImageIcon(getClass().getResource("c:/Users/55839/IdeaProjects/SistemaCadastroAlunos/imgs/icons/pesqImg"));
     ImageIcon listImg = new ImageIcon("c:/Users/55839/IdeaProjects/SistemaCadastroAlunos/imgs/icons/list.png");
     ImageIcon delImg = new ImageIcon(getClass().getResource("c:/Users/55839/IdeaProjects/SistemaCadastroAlunos/imgs/icons/del.png"));
+    */
     JButton botaoAdicionar, botaoPesquisar,botaoListar, botaoRemover; // Botões para operações
+    
 
 
     public SistemaAlunoGUI() {
@@ -34,21 +36,21 @@ public class SistemaAlunoGUI extends JFrame {
 
 
         // Botões com textos
-        botaoAdicionar = new JButton("Adicionar Aluno",addImg);
+        botaoAdicionar = new JButton("Adicionar Aluno");
         botaoAdicionar.setForeground(new Color(111, 76, 129));
         botaoAdicionar.addActionListener(e -> adicionarAluno());
 
-        botaoPesquisar = new JButton("Pesquisar Aluno", pesqImg);
+        botaoPesquisar = new JButton("Pesquisar Aluno");
         botaoPesquisar.setForeground(new Color(24, 134, 29));
         botaoPesquisar.addActionListener(e -> pesquisarAluno());
 
         // Novo botão para listar alunos
-        botaoListar = new JButton("Listar Alunos", listImg);
+        botaoListar = new JButton("Listar Alunos");
         botaoListar.setForeground(new Color(0, 102, 204));
         botaoListar.addActionListener(e -> listarAlunos());
 
         // Adiciona ação ao botão
-        botaoRemover = new JButton("Remover Aluno", delImg);
+        botaoRemover = new JButton("Remover Aluno");
         botaoRemover.setForeground(new Color(122, 3, 40));
         botaoRemover.addActionListener(e -> removerAluno());
 
